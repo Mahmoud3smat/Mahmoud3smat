@@ -65,12 +65,14 @@
 	<!-- **************** HTML, CSS & JS projects start **************** -->
 	<li>
 		<h4>HTML, CSS & JS projects</h4>
-	<!--
 		<ul>
-			<li></li>
+			<li>
+				<p>Responsive Todo list (CRUD): 
+					<a href="https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20%26%20JS%20projects/1-%20Todo%20list%20project">Todo list</a>
+				</p>
+			</li>
 			<li></li>
 		</ul>
-	-->
 	</li>
 	<!-- **************** HTML, CSS & JS projects end **************** -->
 </ol>
