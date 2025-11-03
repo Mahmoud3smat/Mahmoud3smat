@@ -71,7 +71,11 @@
 					<a href="https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20%26%20JS%20projects/1-%20Todo%20list%20project">Todo list</a>
 				</p>
 			</li>
-			<li></li>
+			<li>
+				<p>Product Management (CRUDS):
+					<a href="https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20%26%20JS%20projects/2-%20Product%20management%20project">Product management</a>
+				</p>
+			</li>
 		</ul>
 	</li>
 	<!-- **************** HTML, CSS & JS projects end **************** -->
