@@ -48,12 +48,12 @@
 		<ul>
 			<li>
 				<p>Capital Shop: 
-					<a href="https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20projects/1-%20Capital%20Shop%20project" target="_blank">Capital Shop</a>
+					<a href="https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20projects/1-%20Capital%20Shop%20project">Capital Shop</a>
 				</p>
 			</li>
 			<li>
 				<p>Responsive Dashboard: 
-					<a href="https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20projects/2-%20Dashboard" target="_blank">Dashboard</a>
+					<a href="https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20projects/2-%20Dashboard">Dashboard</a>
 				</p>
 			</li>
 		</ul>
@@ -68,14 +68,15 @@
 		<ul>
 			<li>
 				<p>Responsive Todo list (CRUD): 
-					<a href="https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20%26%20JS%20projects/1-%20Todo%20list%20project" target="_blank">Todo list</a>
+					<a href="https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20%26%20JS%20projects/1-%20Todo%20list%20project">Todo list</a>
 				</p>
 			</li>
 			<li>
-				<p>Product Management (CRUDS):
-					<a href="https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20%26%20JS%20projects/2-%20Product%20management%20project" target="_blank">Product management</a>
+				<p>Weather APP:
+					<a href="https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20%26%20JS%20projects/2-%20Product%20management%20project">Wheater App</a>
 				</p>
 			</li>
+			
 		</ul>
 	</li>
 	<!-- **************** HTML, CSS & JS projects end **************** -->
