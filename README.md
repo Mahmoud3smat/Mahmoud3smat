@@ -72,11 +72,15 @@
 				</p>
 			</li>
 			<li>
-				<p>Weather APP:
-					<a href="https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20%26%20JS%20projects/2-%20Product%20management%20project">Wheater App</a>
+				<p>Product Management (CRUDS):
+					<a href="https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20%26%20JS%20projects/2-%20Product%20management%20project">Project management</a>
 				</p>
 			</li>
-			
+			<li>
+				<p>Weather APP:
+					<a href="https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20%26%20JS%20projects/3-%20Weather%20App%20project">Weater App</a>
+				</p>
+			</li>
 		</ul>
 	</li>
 	<!-- **************** HTML, CSS & JS projects end **************** -->
