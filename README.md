@@ -5,6 +5,14 @@
 <!-- ================ Information about me ================ -->
 <p>Welcome to my page! </br> I'm Mahmoud Esmat, frontend developer from <img src="https://cdn-icons-png.flaticon.com/128/323/323324.png" width="13"/> <b>Sharqia, Egypt</b></p>
 
+<!-- ================ My Resume and Protfolio ================ -->
+<p>
+	<a href="https://drive.google.com/file/d/1bvXG_jdsvd_C31o2IWeqN-FJuD_dyTFH/view?usp=drive_link">
+	<img src="https://img.shields.io/badge/My CV-005520?style=flat-square&logo=googledrive&logoColor=white" style="height:34px; object-fit:contain;"/></a> &nbsp;
+	<a href="">
+	<img src="https://img.shields.io/badge/My Portfolio-003580?style=flat-square&logo=linkfire&logoColor=white" style="height:34px; object-fit:contain;"/></a>
+</p>
+  
 <!-- ================ My Accounts ================ -->
 <h3>Connect with me:</h3>
 <p align="center">
@@ -41,8 +49,12 @@
 
 <!-- ================ Last status ================ -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahmoudEsmat20029&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+	<img src="https://streak-stats.demolab.com?user=MahmoudEsmat20029&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahmoudEsmat20029&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MahmoudEsmat20029&theme=dracula&no-frame=false&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
+</p>
 
 <!-- ================ Last projects ================ -->
 <h3>My Frontend projects:</h3>
@@ -95,5 +107,8 @@
 	</li>
 	<!-- **************** HTML, CSS & JS projects end **************** -->
 </ol>
+
+
+
 
 
