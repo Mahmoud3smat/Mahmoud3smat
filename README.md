@@ -103,6 +103,11 @@
 					<a href="https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20%26%20JS%20projects/4-%20Quiz%20App%20project">Quiz App</a>
 				</p>
 			</li>
+			<li>
+				<p>Vision Test:
+					<a href="https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20%26%20JS%20projects/6-%20Vision%20Test%20project">Vision Test</a>
+				</p>
+			</li>
 		</ul>
 	</li>
 	<!-- **************** HTML, CSS & JS projects end **************** -->
