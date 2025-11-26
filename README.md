@@ -123,6 +123,11 @@
 					<a href="https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/React/1-%20Todo-List">Todo list</a>
 				</p>
 			</li>
+			<li>
+				<p>Weather APP: 
+					<a href="https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/React/2-%20Weather%20APP">Weather App</a>
+				</p>
+			</li>
 		</ul>
 	</li>
 	<!-- **************** React projects end **************** -->
