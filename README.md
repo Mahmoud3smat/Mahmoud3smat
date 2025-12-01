@@ -74,6 +74,16 @@
 					<a href="https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20projects/2-%20Dashboard">Dashboard</a>
 				</p>
 			</li>
+			<li>
+				<p>Pet Adoption Center: 
+					<a href="https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20projects/3-%20Pet%20Adoption%20Center">Pet Adoption Center</a>
+				</p>
+			</li>
+			<li>
+				<p>Bussiness Blog Page: 
+					<a href="https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20projects/4-%20Bussiness%20%20Blog%20Page">Bussiness Blog Page</a>
+				</p>
+			</li>
 		</ul>
 	</li>
 	<!-- **************** HTML & CSS projects end **************** -->
