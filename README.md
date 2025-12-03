@@ -1,5 +1,5 @@
 <!-- ================ This is Header (My name + icon + image) ================ -->
-<h2>Eng: Mahmoud Esmat <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+# Eng: Mahmoud Esmat <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
 
 <!-- ================ Information about me ================ -->
@@ -14,7 +14,7 @@
 </p>
   
 <!-- ================ My Accounts ================ -->
-<h3>Connect with me:</h3>
+## Connect with me:
 <p align="center">
   <a href="https://github.com/MahmoudEsmat20029" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
@@ -30,7 +30,7 @@
 </p>
 
 <!-- ================ languages icons ================ -->
-<h3>Things I code with:</h3>
+## Things I code with:
 <p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -57,97 +57,22 @@
   <img src="https://github-profile-trophy.vercel.app/?username=MahmoudEsmat20029&theme=dracula&no-frame=false&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
 </p>
 
-<!-- ================ Last projects ================ -->
-<h3>My Frontend projects:</h3>
-<ol>
-	<!-- **************** HTML & CSS projects start **************** -->
-	<li>
-		<h4>HTML & CSS projects</h4>
-		<ul>
-			<li>
-				<p>Capital Shop: 
-					<a href="https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20projects/1-%20Capital%20Shop%20project">Capital Shop</a>
-				</p>
-			</li>
-			<li>
-				<p>Responsive Dashboard: 
-					<a href="https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20projects/2-%20Dashboard">Dashboard</a>
-				</p>
-			</li>
-			<li>
-				<p>Pet Adoption Center: 
-					<a href="https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20projects/3-%20Pet%20Adoption%20Center">Pet Adoption Center</a>
-				</p>
-			</li>
-			<li>
-				<p>Bussiness Blog Page: 
-					<a href="https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20projects/4-%20Bussiness%20%20Blog%20Page">Bussiness Blog Page</a>
-				</p>
-			</li>
-			<li>
-				<p>Facebopk Clone:
-					<a href="https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20&%20CSS%20projects/5-%20Facebook%20clone">Facebopk clone</a>
-				</p>
-			</li>
-		</ul>
-	</li>
-	<!-- **************** HTML & CSS projects end **************** -->
-</ol>
+<!-- ================ My Projects ================ -->
+# My Frontend Projects
 
-<ol start="2">
-	<!-- **************** HTML, CSS & JS projects start **************** -->
-	<li>
-		<h4>HTML, CSS & JS projects</h4>
-		<ul>
-			<li>
-				<p>Responsive Todo list (CRUD): 
-					<a href="https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20%26%20JS%20projects/1-%20Todo%20list%20project">Todo list</a>
-				</p>
-			</li>
-			<li>
-				<p>Product Management (CRUDS):
-					<a href="https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20%26%20JS%20projects/2-%20Product%20management%20project">Project management</a>
-				</p>
-			</li>
-			<li>
-				<p>Weather APP:
-					<a href="https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20%26%20JS%20projects/3-%20Weather%20App%20project">Weater App</a>
-				</p>
-			</li>
-			<li>
-				<p>Quiz APP:
-					<a href="https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20%26%20JS%20projects/4-%20Quiz%20App%20project">Quiz App</a>
-				</p>
-			</li>
-			<li>
-				<p>Vision Test:
-					<a href="https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20%26%20JS%20projects/6-%20Vision%20Test%20project">Vision Test</a>
-				</p>
-			</li>
-		</ul>
-	</li>
-	<!-- **************** HTML, CSS & JS projects end **************** -->
-</ol>
+<div align="center">
 
-<ol start="3">
-	<!-- **************** React projects start **************** -->
-	<li>
-		<h4>React projects</h4>
-		<ul>
-			<li>
-				<p>Todo list (CRUD): 
-					<a href="https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/React/1-%20Todo-List">Todo list</a>
-				</p>
-			</li>
-			<li>
-				<p>Weather APP: 
-					<a href="https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/React/2-%20Weather%20APP">Weather App</a>
-				</p>
-			</li>
-		</ul>
-	</li>
-	<!-- **************** React projects end **************** -->
-</ol>
+| HTML & CSS Projects | HTML, CSS & JS Projects | React Projects |
+|--------------------|------------------------|----------------|
+| [Capital Shop](https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20projects/1-%20Capital%20Shop%20project) | [Todo List (CRUD)](https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20%26%20JS%20projects/1-%20Todo%20list%20project) | [Todo List (CRUD)](https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/React/1-%20Todo-List) |
+| [Responsive Dashboard](https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20projects/2-%20Dashboard) | [Product Management (CRUD)](https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20%26%20JS%20projects/2-%20Product%20management%20project) | [Weather App](https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/React/2-%20Weather%20APP) |
+| [Pet Adoption Center](https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20projects/3-%20Pet%20Adoption%20Center) | [Weather App](https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20%26%20JS%20projects/3-%20Weather%20App%20project) |  |
+| [Business Blog Page](https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20projects/4-%20Bussiness%20%20Blog%20Page) | [Quiz App](https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20%26%20JS%20projects/4-%20Quiz%20App%20project) |  |
+| [Facebook Clone](https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20&%20CSS%20projects/5-%20Facebook%20clone) | [Vision Test](https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20%26%20JS%20projects/6-%20Vision%20Test%20project) |  |
+| [Amazone Clone](https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20projects/6-%20Amazon%20clone) |  |  |
+
+</div>
+
 
 
 
