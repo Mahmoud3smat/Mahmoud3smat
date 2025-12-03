@@ -8,9 +8,9 @@
 <!-- ================ My Resume and Protfolio ================ -->
 <p>
 	<a href="https://drive.google.com/file/d/1bvXG_jdsvd_C31o2IWeqN-FJuD_dyTFH/view?usp=drive_link">
-	<img src="https://img.shields.io/badge/My CV-005520?style=flat-square&logo=googledrive&logoColor=white" style="height:34px; object-fit:contain;"/></a> &nbsp;
+	<img src="https://img.shields.io/badge/My CV-005520?style=flat-square&logo=googledrive&logoColor=white" style="height:20px; object-fit:contain;"/></a> &nbsp;
 	<a href="">
-	<img src="https://img.shields.io/badge/My Portfolio-003580?style=flat-square&logo=linkfire&logoColor=white" style="height:34px; object-fit:contain;"/></a>
+	<img src="https://img.shields.io/badge/My Portfolio-003580?style=flat-square&logo=linkfire&logoColor=white" style="height:20px; object-fit:contain;"/></a>
 </p>
   
 <!-- ================ My Accounts ================ -->
