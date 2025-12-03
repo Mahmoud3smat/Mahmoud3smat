@@ -58,7 +58,7 @@
 </p>
 
 <!-- ================ My Projects ================ -->
-# My Frontend Projects
+## My Frontend Projects
 
 <div align="center">
 
