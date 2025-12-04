@@ -69,7 +69,7 @@
 | [Pet Adoption Center](https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20projects/3-%20Pet%20Adoption%20Center) | [Weather App](https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20%26%20JS%20projects/3-%20Weather%20App%20project) |  |
 | [Business Blog Page](https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20projects/4-%20Bussiness%20%20Blog%20Page) | [Quiz App](https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20%26%20JS%20projects/4-%20Quiz%20App%20project) |  |
 | [Facebook Clone](https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20&%20CSS%20projects/5-%20Facebook%20clone) | [Vision Test](https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20%26%20JS%20projects/6-%20Vision%20Test%20project) |  |
-| [Amazone Clone](https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20projects/6-%20Amazon%20clone) |  |  |
+| [Amazone Clone](https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20projects/6-%20Amazon%20clone) |  [Drag & Drop](https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20%26%20JS%20projects/7-%20Drag%20%26%20Drop)|  |
 
 </div>
 
