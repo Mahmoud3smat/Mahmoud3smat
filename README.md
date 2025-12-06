@@ -71,6 +71,7 @@
 | [Facebook Clone](https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20&%20CSS%20projects/5-%20Facebook%20clone) | [Vision Test](https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20%26%20JS%20projects/6-%20Vision%20Test%20project) |  |
 | [Amazone Clone](https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20projects/6-%20Amazon%20clone) |  [Drag & Drop](https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20%26%20JS%20projects/7-%20Drag%20%26%20Drop)|  |
 |  |  [Calculator](https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20&%20CSS%20&%20JS%20projects/8-%20Calculator)|  |
+|  |  [Tic Tac Toe](https://github.com/MahmoudEsmat20029/Frontend-delvelopment/tree/main/HTML%20%26%20CSS%20%26%20JS%20projects/9-%20Tic%20Tac%20Toe)|  |
 
 </div>
 
