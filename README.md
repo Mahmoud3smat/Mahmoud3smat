@@ -50,8 +50,8 @@
 
 <!-- ================ Last status ================ -->
 <div align="center">
-	<img src="https://streak-stats.demolab.com?user=MahmoudEsmat20029&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahmoudEsmat20029&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+	<img src="https://streak-stats.demolab.com/?user=MahmoudEsmat20029&theme=dracula&refresh=1&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+	<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/?username=MahmoudEsmat20029&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MahmoudEsmat20029&theme=dracula&no-frame=false&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
