@@ -50,7 +50,7 @@
 <!-- ================ Last status ================ -->
 <div align="center">
   <img 
-    src="https://streak-stats.demolab.com/?user=Mahmoud3smat" 
+    src="https://streak-stats.demolab.com/?user=Mahmoud3smat&cache_seconds=86400" 
     height="150" 
   />
 </div>
